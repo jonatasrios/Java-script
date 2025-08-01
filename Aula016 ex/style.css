@@ -25,10 +25,10 @@ section{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.459);
 
 }
-#iselet{
+#filista{
     border: none;
-    width: 90px;
-    height: 70px;
+    width: 200px;
+    height: 100px;
 }
 footer{
     text-align: center;
